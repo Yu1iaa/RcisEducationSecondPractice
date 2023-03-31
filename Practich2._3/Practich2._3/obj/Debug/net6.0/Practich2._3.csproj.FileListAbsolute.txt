@@ -1,0 +1,15 @@
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.csproj.AssemblyReference.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.AssemblyInfoInputs.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.AssemblyInfo.cs
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.csproj.CoreCompileInputs.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\bin\Debug\net6.0\Practich2._3.exe
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\bin\Debug\net6.0\Practich2._3.deps.json
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\bin\Debug\net6.0\Practich2._3.runtimeconfig.json
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\bin\Debug\net6.0\Practich2._3.dll
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\bin\Debug\net6.0\Practich2._3.pdb
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.dll
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\refint\Practich2._3.dll
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.pdb
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\Practich2._3.genruntimeconfig.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2._\Practich2._3\obj\Debug\net6.0\ref\Practich2._3.dll

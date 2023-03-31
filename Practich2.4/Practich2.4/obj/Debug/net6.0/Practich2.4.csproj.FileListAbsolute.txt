@@ -1,0 +1,15 @@
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\bin\Debug\net6.0\Practich2.4.exe
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\bin\Debug\net6.0\Practich2.4.deps.json
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\bin\Debug\net6.0\Practich2.4.runtimeconfig.json
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\bin\Debug\net6.0\Practich2.4.dll
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\bin\Debug\net6.0\Practich2.4.pdb
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.csproj.AssemblyReference.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.AssemblyInfoInputs.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.AssemblyInfo.cs
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.csproj.CoreCompileInputs.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.dll
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\refint\Practich2.4.dll
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.pdb
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\Practich2.4.genruntimeconfig.cache
+C:\Users\gr612_pryual\RiderProjects\Practich2.4\Practich2.4\obj\Debug\net6.0\ref\Practich2.4.dll
