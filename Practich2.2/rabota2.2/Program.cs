@@ -8,30 +8,24 @@
 // {
 //   static void Main(string[] args)
 //   {
-// // Создаем экземпляр класса Student
 //     Student student = new Student();
 //
-// // Изменяем свойства объекта
 //     student.ChangeName ("Вилан Арина");
 //     student.ChangeDateOfBirth (new DateTime(2000, 1, 1));
 //     student.ChangeGroupNumber(1);
 //     student.Grades = new int[] { 5, 4, 4, 3, 5 };
 //
-//  //Выводим информацию о студенте
 //     Console.WriteLine("Информация о студенте:");
 //     student.PrintInfo();
 //
-// // Изменяем свойства объекта
 //     student.ChangeName("Акопян Милена");
 //     student.ChangeDateOfBirth(new DateTime(2001, 2, 2));
 //     student.ChangeGroupNumber(4);
 //     student.Grades = new int[] { 3, 3, 4, 3, 5 };
 //
-// // Выводим информацию о студенте
 //     Console.WriteLine("\nОбновленная информация о студенте:");
 //     student.PrintInfo();
 //
-//  //Выводим информацию о студенте с заданными фамилией и датой рождения
 //     Console.Write("\nВведите ФИО студента : ");
 //     string lastName = Console.ReadLine();
 //
@@ -57,8 +51,6 @@
 //
 // namespace Rabota
 // {
-//
-//     //код
 //
 //     namespace Rabota
 //     {
@@ -115,7 +107,6 @@
 // using System;
 // using rabota2._2;
 //
-// // код
 // class Program
 // {
 //     static void Main()
